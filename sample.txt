@@ -1,1 +1,2 @@
 sample git test content
+sample file changed.
